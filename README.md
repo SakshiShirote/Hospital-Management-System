@@ -6,16 +6,16 @@ doctor scheduling, appointment booking, billing, and more. The goal of the proje
 reduce paperwork, and allow for easy access to patient data.
 
 ## Features
-User Management: Separate login for Admin, Doctors, and Patients.
-Patient Registration: Add, update, and manage patient records.
-Doctor Management: View and manage doctor profiles, schedules, and specializations.
-Appointment Scheduling: Book, view, and cancel appointments.
-Billing System: Generate bills for consultations, procedures, and other hospital services.
-Medical Records: Store and retrieve patient medical history, treatment details, and prescriptions.
-Reports Generation: Generate reports for patient visits, doctor schedules, and revenue.
+User Management: Separate login for Admin, Doctors, and Patients.<br>
+Patient Registration: Add, update, and manage patient records.<br>
+Doctor Management: View and manage doctor profiles, schedules, and specializations.<br>
+Appointment Scheduling: Book, view, and cancel appointments.<br>
+Billing System: Generate bills for consultations, procedures, and other hospital services.<br>
+Medical Records: Store and retrieve patient medical history, treatment details, and prescriptions.<br>
+Reports Generation: Generate reports for patient visits, doctor schedules, and revenue.<br>
 
 ## Technologies Used
-Frontend: Java Swing for the GUI
-Backend: Core Java, JDBC for database connection
-Database: MySQL (or any other relational database)
-IDE: (e.g., Eclipse, IntelliJ IDEA, NetBeans)
+Frontend: Java Swing for the GUI <br>
+Backend: Core Java, JDBC for database connection <br>
+Database: MySQL (or any other relational database) <br>
+IDE: (e.g., Eclipse, IntelliJ IDEA, NetBeans) <br>
